@@ -23,13 +23,12 @@ User-Item nXn matrix , so computationally expensive .
 Only famous items will get reccomended .
 
 New items might not get reccomended at all .
-
+# Dataset 
+https://www.kaggle.com/code/likithats/book-recommendation/input?select=BX-Books.csv
 # About this project:
 
 This is a streamlit web application that can recommend various kinds of similar books based on an user interest. here is a demo,
+![image](https://github.com/ishpreetkaurr/Book-Recommendation-System/assets/122783372/2cd64515-25a5-4545-b700-328c48f9c56c)
 
-<img width="877" alt="image" src="https://github.com/ishpreetkaurr/Book-Recommendation-System/assets/122783372/1da68793-dd57-4083-ab1f-434402058a97">
 
-
-![image](https://github.com/ishpreetkaurr/Book-Recommendation-System/assets/122783372/610d3518-e2a4-4261-b2db-d63b6fc4efd4)
 
