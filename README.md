@@ -24,7 +24,9 @@ Only famous items will get reccomended .
 
 New items might not get reccomended at all .
 # Dataset 
+
 https://www.kaggle.com/code/likithats/book-recommendation/input?select=BX-Books.csv
+
 # About this project:
 
 This is a streamlit web application that can recommend various kinds of similar books based on an user interest. here is a demo,
