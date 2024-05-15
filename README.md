@@ -28,6 +28,7 @@ https://www.kaggle.com/code/likithats/book-recommendation/input?select=BX-Books.
 # About this project:
 
 This is a streamlit web application that can recommend various kinds of similar books based on an user interest. here is a demo,
+
 ![image](https://github.com/ishpreetkaurr/Book-Recommendation-System/assets/122783372/2cd64515-25a5-4545-b700-328c48f9c56c)
 
 
